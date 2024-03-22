@@ -1,1 +1,1 @@
-# casestudy.pbix
+# .pbix
